@@ -15,6 +15,17 @@ tqdm = "^4.62.3"
 jupyterlab-lsp = "^3.9.1"
 jut = "^0.0.24"
 jupyterlab-templates = "^0.3.1"
+jupyterlab-system-monitor = "^0.8.0"
+jupyternotify = "^0.1.15"
+python-lsp-server = {extras = ["all"], version = "^1.3.2"}
+pyls-flake8 = "^0.4.0"
+mypy = "^0.910"
+mypy-ls = "^0.5.1"
+pyls-isort = "^0.2.2"
+python-lsp-black = "^1.0.1"
+black = "^21.11b1"
+isort = "^5.10.1"
+flake8 = "^4.0.1"
 
 [tool.poetry.dev-dependencies]
 

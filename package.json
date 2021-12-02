@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "bash-language-server": "^2.0.0",
+    "dockerfile-language-server-nodejs": "^0.7.2",
+    "pyright": "^1.1.191",
+    "unified-language-server": "^0.3.0",
+    "vscode-html-languageserver-bin": "^1.4.0",
+    "vscode-json-languageserver-bin": "^1.0.1",
+    "yaml-language-server": "^1.2.2"
+  }
+}
