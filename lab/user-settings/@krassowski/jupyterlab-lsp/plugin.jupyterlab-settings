@@ -1,0 +1,9 @@
+{
+    "language_servers": {
+        "pyright": {
+            "serverSettings": {
+                "python.analysis.useLibraryCodeForTypes": true
+            }
+        }
+    },
+}

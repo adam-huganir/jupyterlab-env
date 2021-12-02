@@ -1,0 +1,15 @@
+{
+    "codeCellConfig": {
+        "fontFamily": "Iosevka Term Curly,FiraCode NF,monospace",
+        "wordWrapColumn": 120,
+    },
+    "markdownCellConfig": {
+        "fontFamily": "Iosevka Term Curly,FiraCode NF,monospace",
+        "wordWrapColumn": 120,
+    },
+    "rawCellConfig": {
+        "fontFamily": "Iosevka Term Curly,FiraCode NF,monospace",
+        "wordWrapColumn": 120,
+    },
+    "recordTiming": true,
+}

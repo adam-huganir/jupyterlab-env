@@ -1,0 +1,6 @@
+{
+    "editorConfig": {
+        "fontFamily": "Iosevka Term Curly,FiraCode NF,monospace",
+        "wordWrapColumn": 120,
+    }
+}

@@ -1,5 +1,4 @@
 .secrets
-lab
 jupyter_notebook_config.json
 .ipynb_checkpoints
 .python-version
